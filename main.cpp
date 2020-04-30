@@ -6,4 +6,5 @@ int main()
     cin >> a;
     cout << "Input b:";
     cin >> b;
+    cout << " A + B = " << a + b << '\n';
 }
